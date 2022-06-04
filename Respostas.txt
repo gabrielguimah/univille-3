@@ -1,0 +1,5 @@
+1- Explique com as suas palavras o que são arranjos:
+Mais conhecidos como "arrays", são uma estrutura de dados usada para representar uma sequência de valores/tabelas.
+
+2 - Explique com as suas palavras o que são matrizes:
+Se trata de um arranjo ("array") de duas dimensões, ou seja, linhas e colunas.
